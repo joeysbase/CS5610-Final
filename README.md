@@ -63,4 +63,4 @@
 - A: N/A
 
 ## Link
-[sudoku]([https://cs5610-project2-ns4a.onrender.com](https://cs5610-frontend-vzjo.onrender.com))
+![sudoku]([https://cs5610-project2-ns4a.onrender.com](https://cs5610-frontend-vzjo.onrender.com))
